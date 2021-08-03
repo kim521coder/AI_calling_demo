@@ -1,0 +1,58 @@
+{
+  "id": "2404361",
+  "name": "KIM",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4237150",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "3293510",
+      "name": "建立群组",
+      "font_class": "group-new",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "6050091",
+      "name": "网关",
+      "font_class": "wangguan",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "15432392",
+      "name": "网关",
+      "font_class": "wangguan1",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "4513634",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "5008502",
+      "name": "搜索",
+      "font_class": "sousuo1",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "6291849",
+      "name": "搜索",
+      "font_class": "sousuo9",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    }
+  ]
+}
